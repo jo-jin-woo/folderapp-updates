@@ -1,10 +1,10 @@
 {
-  "version": "1.0.2",
-  "released_at": "2026-11-19T06:09:46Z",
-  "notes_ko": "홈 화면 버전 표시 · 업데이트 후 자동 재시작 안정화",
+  "version": "1.0.3",
+  "released_at": "2026-11-19T06:19:13Z",
+  "notes_ko": "홈 화면 버전 표시 · 업데이트 매니페스트 즉시 반영",
   "zip_url": "https://raw.githubusercontent.com/jo-jin-woo/folderapp-updates/main/FolderAppServer.exe",
   "zip_size": 13743616,
-  "zip_sha256": "8da587a8bca25763d9b3bd7033299cfb5a1bd1d0ceff9a47b58123213e57e70d",
+  "zip_sha256": "5941bbec7221b0d7ad84cc8aac854a91efdf36cb602c12f5785c827aca95b7b8",
   "exe_name": "FolderAppServer.exe",
-  "signature": "00ca5314d62673428add6bc7713e6461dd7df56508ff02d1d3eaafd83cb8cfb94a9a97956b4f62b3db634b9cea851921a7b4538843fb73809d1e3911eaa01c02"
+  "signature": "6c5941f0fd7170b91615964d948ae55e78a77dc537c593bb349bf13b0a29e9c1c6266aca728be33a86365c96c8b928f01048b92cdb488550b90ac6fb73eda703"
 }
