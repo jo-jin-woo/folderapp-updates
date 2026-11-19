@@ -1,10 +1,10 @@
 {
-  "version": "1.0.7",
-  "released_at": "2026-11-19T06:54:40Z",
-  "notes_ko": "창 열어둔 상태에서도 자동 업데이트 알림 · 업데이트 체크 버튼 텍스트화",
+  "version": "1.0.8",
+  "released_at": "2026-11-19T07:07:00Z",
+  "notes_ko": "기기 이름 두 줄 표시 · 전송 카드 닫기 버튼 제거",
   "zip_url": "https://raw.githubusercontent.com/jo-jin-woo/folderapp-updates/main/FolderAppServer.exe",
   "zip_size": 13753856,
-  "zip_sha256": "e0dbf7eb758cc5b0046ec5ad4dfb006fdbacde83ff0c5a9ce7e04ff82e83dad9",
+  "zip_sha256": "e40de1d6c0629dec12bce0d535f9cefa0470224d322494f88164d3c1f3d0adf5",
   "exe_name": "FolderAppServer.exe",
-  "signature": "107441274e5b2f29497280a6d387e425175923ca3b00c1507dac13c61658d3d44a68cff5233b7d1ba975815885c884042d85b3275f5e8c8e4aed0519dd5f660e"
+  "signature": "c376c6b05a8949334c142acdb055f979b66bd25790297d6381c28bf384ded588772b2d218705dc9440651056d01249aabe625bd472031596f9cf3d6dfec7e300"
 }
