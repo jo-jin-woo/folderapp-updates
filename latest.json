@@ -1,10 +1,10 @@
 {
-  "version": "1.0.5",
-  "released_at": "2026-11-19T06:32:08Z",
-  "notes_ko": "업데이트 즉시 반영 · 체크 1시간 주기 · 🔄 수동 체크 버튼",
+  "version": "1.0.6",
+  "released_at": "2026-11-19T06:47:57Z",
+  "notes_ko": "폴더 아이콘·표현 방식 통일 (노란 폴더 + 그리드)",
   "zip_url": "https://raw.githubusercontent.com/jo-jin-woo/folderapp-updates/main/FolderAppServer.exe",
-  "zip_size": 13751808,
-  "zip_sha256": "35d4fd0b1dcce53d88ea5298ed65c59ce1b2b60e6b18775c2fa76e293cf08e51",
+  "zip_size": 13753344,
+  "zip_sha256": "b634270118646619f2fa4c78d32b23a82c2361ef88f4eb34e2fb9d9ad6d721b0",
   "exe_name": "FolderAppServer.exe",
-  "signature": "39b57d2fb47b6fb533a582278bca0d2edd57d29d59a9a723ac808a9e7eba4155721d357c8209292414fa29ca21509271c67259728de0d4cbb837bffb55e3640c"
+  "signature": "1c70a917e678008270856caed2ca3f71f952ca7827ed6f1efa926b1724faf0595be56b7dc4da207a33875e29c0b468f0dd6248994f6fced8e167dc307bcd9e0e"
 }
