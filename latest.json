@@ -1,10 +1,10 @@
 {
-  "version": "1.0.8",
-  "released_at": "2026-11-19T07:07:00Z",
-  "notes_ko": "기기 이름 두 줄 표시 · 전송 카드 닫기 버튼 제거",
+  "version": "1.0.9",
+  "released_at": "2026-11-19T07:22:53Z",
+  "notes_ko": "완료 파일 모달 썸네일·클릭 수정 · 전송중 썸네일 500장 누적",
   "zip_url": "https://raw.githubusercontent.com/jo-jin-woo/folderapp-updates/main/FolderAppServer.exe",
   "zip_size": 13753856,
-  "zip_sha256": "e40de1d6c0629dec12bce0d535f9cefa0470224d322494f88164d3c1f3d0adf5",
+  "zip_sha256": "29d566f77656479b3712c600c4a177cb2c84e0d08d38e4efa5b9cb069f057f8d",
   "exe_name": "FolderAppServer.exe",
-  "signature": "c376c6b05a8949334c142acdb055f979b66bd25790297d6381c28bf384ded588772b2d218705dc9440651056d01249aabe625bd472031596f9cf3d6dfec7e300"
+  "signature": "b6e19eb69a51f5190202e1e77eb0f79a75a3e2be0c4c7d1e94f13080e2c5dee2ac1ace83d94384a23f61161a0a552663677cd11947639de3244d532ad66da601"
 }
