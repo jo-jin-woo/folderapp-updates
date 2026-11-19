@@ -1,10 +1,10 @@
 {
-  "version": "1.0.4",
-  "released_at": "2026-11-19T06:26:36Z",
-  "notes_ko": "완료 파일 확인 모달 추가 · 썸네일 그리드 + 라이트박스",
+  "version": "1.0.5",
+  "released_at": "2026-11-19T06:32:08Z",
+  "notes_ko": "업데이트 즉시 반영 · 체크 1시간 주기 · 🔄 수동 체크 버튼",
   "zip_url": "https://raw.githubusercontent.com/jo-jin-woo/folderapp-updates/main/FolderAppServer.exe",
-  "zip_size": 13748736,
-  "zip_sha256": "fa827c7e23fb09b6ac87ecb21b9000e0b059f95f255817579b1292162c7944c6",
+  "zip_size": 13751808,
+  "zip_sha256": "35d4fd0b1dcce53d88ea5298ed65c59ce1b2b60e6b18775c2fa76e293cf08e51",
   "exe_name": "FolderAppServer.exe",
-  "signature": "876ec0244645465697ba6f3a369f806da0756b1a998e49a8ed0b5d224ed77a9a8fbc01f25c40587f00b0c9aa0b2411ad9beb7def683931e377e7cbd294d7380a"
+  "signature": "39b57d2fb47b6fb533a582278bca0d2edd57d29d59a9a723ac808a9e7eba4155721d357c8209292414fa29ca21509271c67259728de0d4cbb837bffb55e3640c"
 }
