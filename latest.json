@@ -1,10 +1,10 @@
 {
-  "version": "1.0.3",
-  "released_at": "2026-11-19T06:19:13Z",
-  "notes_ko": "홈 화면 버전 표시 · 업데이트 매니페스트 즉시 반영",
+  "version": "1.0.4",
+  "released_at": "2026-11-19T06:26:36Z",
+  "notes_ko": "완료 파일 확인 모달 추가 · 썸네일 그리드 + 라이트박스",
   "zip_url": "https://raw.githubusercontent.com/jo-jin-woo/folderapp-updates/main/FolderAppServer.exe",
-  "zip_size": 13743616,
-  "zip_sha256": "5941bbec7221b0d7ad84cc8aac854a91efdf36cb602c12f5785c827aca95b7b8",
+  "zip_size": 13748736,
+  "zip_sha256": "fa827c7e23fb09b6ac87ecb21b9000e0b059f95f255817579b1292162c7944c6",
   "exe_name": "FolderAppServer.exe",
-  "signature": "6c5941f0fd7170b91615964d948ae55e78a77dc537c593bb349bf13b0a29e9c1c6266aca728be33a86365c96c8b928f01048b92cdb488550b90ac6fb73eda703"
+  "signature": "876ec0244645465697ba6f3a369f806da0756b1a998e49a8ed0b5d224ed77a9a8fbc01f25c40587f00b0c9aa0b2411ad9beb7def683931e377e7cbd294d7380a"
 }
